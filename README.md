@@ -18,6 +18,8 @@
 
 A Laravel Package to generate OAuth1/OAuth2 Providers that are compatible with the Socialite Providers Manager.
 
+This is a fork of https://github.com/SocialiteProviders/Generators in order to be able to add Support for newer versions of Laravel. All code is the same as the repo with only the composer file updated.
+
 ## Installation
 
 ### 1. Composer
